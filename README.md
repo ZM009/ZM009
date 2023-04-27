@@ -7,6 +7,19 @@
 
 Here are some ideas to get you started:
 -->
+
 - 🔭 I’m currently working on migrating a Flutter Package to null safety, and creating a multiplatform application to control a robot that kills weeds with a precision laser!
-- 🌱 I’m currently learning Python, Dart, and Rust!
+- 🌱 I’m currently learning Dart, Rust and Embedded Programming!
 - 💬 Ask me about my future Rust Project: A Gameboy Emulator!
+
+### Languages I've worked with:
+
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,python,dart,rust,mysql,php)](https://skills.thijs.gg)
+
+### Markup and Frontend:
+
+[![Frontend](https://skills.thijs.gg/icons?i=html,javascript,css)](https://skills.thijs.gg)
+
+### Frameworks I've used:
+
+[![My Skills](https://skills.thijs.gg/icons?i=react,bootstrap,flutter)](https://skills.thijs.gg)
