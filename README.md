@@ -1,4 +1,4 @@
-# Hi there 👋 All about me below!
+# Hi there 👋 I'm Zach!
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ZM009&count_private=true&show_icons=true&theme=react)](https://github.com/ZM009)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZM009&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/ZM009)
